@@ -38,9 +38,9 @@ class  Script(object):
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/VJForwardBot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Kɪɴɢ VJ 👑](https://t.me/kingvj01)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [VJ Bᴏᴛᴢ](https://t.me/vj_botz)
+║┣⪼📃ʙᴏᴛ : [Tʜᴀɴᴏs Fᴏʀᴡᴀʀᴅ Bᴏᴛ](https://t.me/thanos_forward_bot)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [𝘗𝘢𝘵𝘳𝘪𝘤𝘬 𝘉𝘢𝘵𝘦𝘮𝘢𝘯](https://t.me/Patrick_Bateman_r)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Pᴀᴛʀɪᴄᴋ Bᴏᴛᴢ](https://t.me/SevenX_Support)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
